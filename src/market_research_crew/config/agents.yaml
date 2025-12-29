@@ -13,8 +13,9 @@ market_research_specialist:
     strategies and have deep knowledge of AI adoption patterns across various
     industries. Your analytical rigor and data-driven approach have helped
     companies make informed decisions about market opportunities.
+  llm: groq/llama-3.1-8b-instant
 
-competative_intelligence_analyst:
+competitive_intelligence_analyst:
   role: >
     Competitive Intelligence Analyst
   goal: >
@@ -30,6 +31,7 @@ competative_intelligence_analyst:
     startups find their unique positioning in crowded markets. You have a keen
     eye for spotting market gaps and understanding competitive dynamics. Your
     analysis is always thorough, objective, and actionable.
+  llm: groq/llama-3.1-8b-instant
 
 customer_insights_researcher:
   role: >
@@ -47,6 +49,7 @@ customer_insights_researcher:
     psychology. Your insights have directly influenced product-market fit for
     multiple successful ventures. You excel at translating customer data into
     actionable business insights.
+  llm: groq/llama-3.1-8b-instant
 
 product_strategy_advisor:
   role: >
@@ -66,6 +69,7 @@ product_strategy_advisor:
     and business viability. You excel at translating market insights into
     concrete product decisions and creating roadmaps that balance innovation
     with pragmatism.
+  llm: groq/llama-3.1-8b-instant
 
 business_analyst:
   role: >
@@ -84,3 +88,4 @@ business_analyst:
     for presenting data-driven insights in compelling narratives that drive
     business decisions. Your analysis is always thorough, balanced, and grounded
     in business fundamentals.
+  llm: groq/llama-3.1-8b-instant
